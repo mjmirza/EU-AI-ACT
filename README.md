@@ -1,5 +1,7 @@
 # EU AI Act 2024
 
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 ## Introduction
 ### Purpose
   - **Protect Fundamental Rights**: Ensure AI systems are developed and used in a way that respects European values and fundamental rights including privacy, non-discrimination, and consumer protection.
